@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TimerNotifications</string>
+    <string name="compte_rebours">Compte à rebours</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="annuler">Annuler</string>
+    <string name="_10_sec">+10 sec</string>
+    <string name="sablier">sablier</string>
+    <string name="NBW"/>
+    <string name="appicon"/>
+    <string name="NBWorkout"/>
+    <string name="_NBWorkout">NBWorkout</string>
+</resources>
